@@ -9,7 +9,7 @@ My final work for HarvardX CS50x course!
 
 ## What is ElvinPass?
 
-ElvinPass is a **command-line password manager** built in Python, similar to KeePass. It allows users to securely store, retrieve, update, and delete passwords in a local encrypted SQLite database. It was developed as a CS50x final project in 2020.
+ElvinPass is a **command-line password manager** built in Python, similar to KeePass. It allows users to securely store, retrieve, update, and delete passwords in a local encrypted SQLite database.
 
 ---
 
